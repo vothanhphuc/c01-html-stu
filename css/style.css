@@ -1,0 +1,43 @@
+body {
+    color: #173451;
+    width: 80%;
+    margin: auto;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  /* .nav ul
+  {
+   list-style:none;
+	 float: right;
+	 margin-top: 27px;
+  }
+  .nav ul li
+  {
+    float: left;
+  }
+  .nav ul li a
+  {
+   padding:0 15px;
+	 text-decoration:none;
+	 font-size: 24px;
+	 font-family: raleway-b;
+	 color:#272727;
+	 text-transform: uppercase;
+	 line-height: 34px;
+  } */
+  
+  h1 {
+    color: #992154;
+  }
+  
+  h2 {
+    color: #fcbf16;
+  }
+  
+  nav {
+    padding: 2rem;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-between;
+  }
